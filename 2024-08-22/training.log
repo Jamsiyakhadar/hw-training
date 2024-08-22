@@ -1,7 +1,6 @@
-Updated Yesterday's Task Status - Data Quality Assurance concepts and Tools used
+Updated yesterday's task - Data quality assurance concepts and Tools
 
-Data Cleaning Task
-Analyze the data and note down errors 
-Handled data preprocessing using Excel power query editor
-Find error values ,incorrect date format,irrelevant data 
-cleaned and saved the dataset
+Task - Clean the given data
+Analyzed the data and found errors like ,missing values,irrelevant error,unstructured date format
+Used Excel power query editor for data preprocessing
+after data cleaning cleaned data is saved 
