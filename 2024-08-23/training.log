@@ -1,0 +1,28 @@
+Task - Data Cleaning
+
+Tool Used: Power BI - Power Query Editor
+
+#Loaded data into Power BI for cleaning and analysis.
+#Analyzed columns to identify data quality issues
+#Created a sample visualization
+
+Issues Identified:
+1. Null Values:
+   - Found in the Catalogue Price column.
+2. Incorrect Date Format:
+   - Found in the Date column.
+3. Irrelevant Data:
+   - Identified in the Stock, Website, and Reference Number columns.
+4. Blank Column:
+   - Detected an entirely blank column with no data.
+
+Actions Taken:
+a. Filtered the Data
+b. Standardized Date and Time Format
+c. Cleaned Irrelevant Data
+d. Loaded the data in power BI 
+e. Created a sample visualization which highlights no:of data,top ten stocks etc
+d. Saved the File
+
+
+The data was successfully cleaned using Power BI, addressing all identified issues and ensuring the dataset is ready for further analysis.
