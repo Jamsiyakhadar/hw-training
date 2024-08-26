@@ -1,0 +1,74 @@
+Data Cleaning Task 
+
+Data QA - Iowareality 
+Errors found:
+
+# Imported Json file into csv
+
+- Identified null values
+
+       All columns include empty values 'profile_url', 'first_name', 'middle_name', 'last_name', 'image_url',
+       'office_name', 'address', 'description', 'languages__001',
+       'languages_002', 'languages003', 'languages_004',
+       'social_facebook_url', 'socialtwitter_url', 'social_linkedin_url',
+       'social_other_urls001', 'socialother_urls_002', 'website',
+       'email', 'title', 'country', 'city', 'zipcode', 'state',
+       'agent_phone_numbers__-'           
+
+- All columns are in object datatype except email ,title  and zipcode
+
+1. First Name
+- Some name contains full name in first name column
+
+2. Middle name.
+-Majority are null values
+
+3. Last  name
+- names are multiple times, suggesting redundancy
+- Null value 
+
+4. Title
+- contain  Null values,and repetition
+5.Description
+ -Null value present, no other issues
+ 
+6. Image URL
+- Null values present, url are multiple times
+
+7.Address
+- Address are multiple times
+ - null value present
+ -Present Special characters and whitespace
+
+8.City
+  -Some Cites are multiple times
+  -null values present
+ 
+9.Country
+- Null values Present
+
+10.State
+- null values Present
+
+11.zipcode
+ - Present null Values
+ -Some zipcode are multiple time
+
+13.Website _url
+  - Present null Values
+  -Some Website_url are multiple time   
+
+14. Agent Phone Number
+  - Not in numerical
+  -Present null values
+  -Some Agent Phone Numbers are multiple times 
+15. Email
+  - Only Null Values present
+
+16. languages_001','languages002', 'languages003', 'languages_004
+   - Null Values present
+
+17. social_facebook_url', 'socialtwitter_url', 'social_linkedin_url',
+    'social_other_urls001', 'socialother_urls_002',
+ - Null Values present
+  -Repetitionn
