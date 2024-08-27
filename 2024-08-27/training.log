@@ -1,0 +1,43 @@
+Data QA - Coldwellbankerinternational_2024_08_05
+Tool used - sublime text
+Total Values - 5140
+
+
+First Name : Contains null values (2545 values are unique)
+
+Middle Name : Contains null values(234 values are unique)
+
+Last Name :Contains null values(3737 values are unique)
+
+Image URL :Contains null values (3099 values are unique)
+
+Title :Fully null values
+
+Office Name :Contains null values(512 values are unique)
+
+Description: Contains null values(670 values are unique)
+
+Languages : Contains null values (143 values are unique)
+
+Address : Contains null values(570 values are unique)
+
+City : Contains null values (431 values are unique)
+
+Zipcode : Contains null values(287 values are unique)
+
+state : Contains null values(71 values are unique)
+
+Agent phone number : Contains null values(3022 values are unique)
+
+office phone number : Contains null values(586 values are unique)
+
+Social URL: Mix of variety URLs like facebook urls ,twitter url,linkedin url and other urls
+(546 values are unique)
+
+Website :Fully null values
+
+Email : Contains null values(4925 values are unique)
+
+Profile URL: Fully null values
+
+Country : Contain null values(26 values are unique)
