@@ -1,0 +1,23 @@
+Data Quality Report - Firstweber_2024_08_05
+Tool used - Sublime Text
+Total value - 975
+
+1. Title: like "REALTOR®", "Realtor", "REALTOR", and "Broker Associate" and Presence of null values.
+2. Office Name: No issues found
+3. Address: No issues found.
+4. City: No issues found
+5. State: Two unique value, no issues found.
+6. Zip Code: Incorrect Format;Some are 5 Digits and other are 9 digits.
+7. Profile URL: no issues found.
+8. Languages:Most of the values are null
+9. Description: Presence of null values.
+10. First Name: Full names are incorrectly listed as first names.
+11. Middle Name: Most of the values are null
+12. Last Name: Presence of null values
+13. Website:Insted of website "123" formats are present,wrong format like "https://www.https://-969"
+14. Email:No values present, all null.
+15. Image URL: Incomplete URL like "https://"
+16. Agent Phone Numbers: Phone numbers in different formats (e.g., ["746-246-8489"], ["541.222.5240"], ["(980) 907-3311"], ["3456770380"]).One phone number is like ["Brittany"-2723-876]
+17. Office Phone Numbers : No values present, all null.
+18. Social: Mix of vanity URLs like facebook urls ,twitter url,linkedin url and other urls
+19. Country:Issue: Only one unique value, no issues found.
